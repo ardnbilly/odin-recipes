@@ -1,12 +1,14 @@
-**Odin Recipes**
-A simple html recipe pages, exercise from odin project
+# Odin Recipes
 
-**What i learn**
+A simple HTML recipe page, an exercise from The Odin Project.
 
-- Git basic
-- Commit messages
-- Html Links
-- Html List
+## What I Learned
 
-**Demo**
-(ardnbilly.github.io/odin-recipes)
+- Git Basics
+- Commit Messages
+- HTML Links
+- HTML Lists
+
+## Demo
+
+You can view the live demo [here](https://ardnbilly.github.io/odin-recipes).
